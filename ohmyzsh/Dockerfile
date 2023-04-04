@@ -6,8 +6,8 @@ LABEL org.opencontainers.image.title="ohmyzsh"
 LABEL org.opencontainers.image.description="Oh My Zsh versioned image"
 LABEL org.opencontainers.image.url="https://github.com/ohmyzsh/docker"
 LABEL org.opencontainers.image.vendor="Oh My Zsh"
-LABEL org.opencontainers.image.authors="Marc Cornellà <hello@mcornella.com>"
-LABEL maintainer="Marc Cornellà <hello@mcornella.com>"
+LABEL org.opencontainers.image.authors="Eli Maor <eli@einstein.org.il>"
+LABEL maintainer="Eli Maor <eli@einstein.org.il>"
 
 # set UTF-8 locale
 ENV LANG=C.UTF-8

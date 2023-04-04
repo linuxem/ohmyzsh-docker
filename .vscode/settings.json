@@ -1,0 +1,6 @@
+{
+    "docker.composeCommand": "docker compose"
+},
+{
+    "terminal.integrated.inheritEnv": false
+}
